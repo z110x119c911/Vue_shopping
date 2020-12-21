@@ -1,9 +1,21 @@
 @import "~bootstrap/scss/functions";
 @import "./helper/variables";
 @import "~bootstrap/scss/bootstrap";
+@import "./hover/hover.scss";
+@import "./hover/options";
 
-
-
-nav a{
-    color: white;
+body{
+  font-family: 'Antic Slab',
+  serif;
 }
+.article{
+  font-size: 40px;
+  letter-spacing: 5px;
+}
+      // .footer_text > li{
+      //   padding: 5px 30px;
+      //   margin: 5px 0;
+      //   border: 1px solid #eaded2;
+      //   border-top: 0;
+      //   border-bottom: 0;
+      // }

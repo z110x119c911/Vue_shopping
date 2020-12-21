@@ -5,11 +5,14 @@
 </template>
 
 <script>
+
+
 export default {
-  name: 'App'
+  name: 'App',
 }
 </script>
 <style lang="scss">
   @import "./assets/all";
-  @import "./assets/carousel";
+  @import "./assets/header";
+  @import "./assets/nav";
 </style>

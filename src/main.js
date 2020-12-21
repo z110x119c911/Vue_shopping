@@ -4,13 +4,16 @@ import Vue from 'vue'
 import App from './App'
 import router from './router'
 import VueAxios from 'vue-axios'
-
+import VueParallaxy from 'vue-parallaxy'
 
 import 'bootstrap'
 import 'jquery'
+import 'hover.css'
 
+import './validation'
 // Vue.use(VueAxios,axios);
 
+Vue.component('VueParallaxy',VueParallaxy)
 
 Vue.config.productionTip = false
 
