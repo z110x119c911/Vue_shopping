@@ -12,7 +12,6 @@
   "dependencies": {
     "axios": "^0.21.0",
     "bootstrap": "^4.5.3",
-    "hover.css": "^2.3.2",
     "jquery": "^3.5.1",
     "l": "^0.6.0",
     "node-sass": "^4.14.1",

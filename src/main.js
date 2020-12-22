@@ -8,7 +8,6 @@ import VueParallaxy from 'vue-parallaxy'
 
 import 'bootstrap'
 import 'jquery'
-import 'hover.css'
 
 import './validation'
 // Vue.use(VueAxios,axios);
